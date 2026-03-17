@@ -1,0 +1,9 @@
+com\StudentManagement\model\Student.class
+com\StudentManagement\javaservlet\AdminLoginServlet.class
+com\StudentManagement\javaservlet\LogoutServlet.class
+com\StudentManagement\dao\StudentDAO.class
+com\StudentManagement\javaservlet\AdminDashboardServlet.class
+com\StudentManagement\javaservlet\UpdateStudentServlet.class
+com\StudentManagement\javaservlet\DeleteStudentServlet.class
+com\StudentManagement\javaservlet\AddStudentServlet.class
+com\StudentManagement\dao\StudentDAO$StudentRowMapper.class
